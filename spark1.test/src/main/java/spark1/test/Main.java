@@ -1,5 +1,5 @@
 package spark1.test;
-import static spark.Spark.get;
+import static spark.Spark.*;
 
 public class Main {
 
